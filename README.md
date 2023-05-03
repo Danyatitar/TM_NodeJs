@@ -2,7 +2,8 @@
 
 # Start a project
 
-To start a project after downloading write npm install in terminal
+To start a project after downloading write npm install in terminal.
+To run a script write npm run start in terminal
 
 # About project
 
