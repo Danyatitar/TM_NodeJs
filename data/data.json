@@ -1,0 +1,41 @@
+{
+  "name": "Danylo",
+  "description": "I want to represent the best players of 5 sports",
+  "cards": [
+    {
+      "img": "https://library.sportingnews.com/styles/twitter_card_120x120/s3/2022-12/Lionel%20Messi%20Argentina%20kiss%20World%20Cup%20trophy%20121822.jpg?itok=tKsCqx9f",
+      "Name": "Lionel Messi",
+      "Sport": "Football",
+      "Country": "Argentina",
+      "Prime_team": "Barcelona"
+    },
+    {
+      "img": "https://www.denverpost.com/wp-content/uploads/2020/03/GettyImages-1190269289.jpg?w=435",
+      "Name": "Michael Jordan",
+      "Sport": "Basketball",
+      "Country": "USA",
+      "Prime_team": "Chicago Bulls"
+    },
+    {
+      "img": "https://i0.wp.com/hockeyanswered.com/wp-content/uploads/2019/09/Screen-Shot-2019-09-10-at-12.00.58-PM.png?fit=398%2C445&ssl=1",
+      "Name": "Wayne Gretzky",
+      "Sport": "Hockey",
+      "Country": "Canada",
+      "Prime_team": "Edmonton Oilers"
+    },
+    {
+      "img": "https://static01.nyt.com/images/2022/06/05/sports/05french-mens-final1/merlin_208101867_c3a3a23d-81ba-4ab2-9144-0da80d729a0a-superJumbo.jpg",
+      "Name": "Rafael Nadal",
+      "Sport": "Tennis",
+      "Country": "Spain"
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUsy5aZJ2lKgXtXvqX3ldX9vWsp2V1hsTLB11NIRJKsGlwtvppgxSH1Rjv_aRWKMu5Gvs&usqp=CAU",
+      "Name": "Sergion Dutra Santos",
+      "Sport": "Volleyball",
+      "Country": "Brazil",
+      "Prime_team": "Copra Piacenza"
+    }
+  ],
+  "footer": "@Copyrights"
+}
